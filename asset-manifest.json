@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44f24cff.css",
+    "main.js": "/static/js/main.b4a84675.js",
+    "static/media/jkenterprise.png": "/static/media/jkenterprise.7d12c554c4f141c30309.png",
+    "static/media/mhc.png": "/static/media/mhc.4aab656c7605a2c940ca.png",
+    "static/media/netflix.png": "/static/media/netflix.9bae8e2320b452800940.png",
+    "static/media/resume.pdf": "/static/media/resume.fba277dc014207ffe172.pdf",
+    "static/media/akash2.png": "/static/media/akash2.9527ac6bcc6089c60db9.png",
+    "static/media/drum.png": "/static/media/drum.397012d5548484501b96.png",
+    "static/media/keeper.png": "/static/media/keeper.e06411d65e1401b6a814.png",
+    "static/media/glassesemoji.png": "/static/media/glassesemoji.a08bdab12e8eb56a6874.png",
+    "static/media/dice.png": "/static/media/dice.dcb94b437f9473291b42.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.44f24cff.css.map": "/static/css/main.44f24cff.css.map",
+    "main.b4a84675.js.map": "/static/js/main.b4a84675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f24cff.css",
+    "static/js/main.b4a84675.js"
+  ]
+}
